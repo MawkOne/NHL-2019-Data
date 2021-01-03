@@ -1,418 +1,418 @@
 PLAYER,POS,BEST,WORST,AVG
-"Connor McDavid (EDM - C,F)",C,1,2,1.8
-Nathan MacKinnon (COL - C),C,1,5,2
-"Leon Draisaitl (EDM - C,LW)",C,3,3,3
-"Auston Matthews (TOR - C,F)",C,4,13,6
-"Alex Ovechkin (WSH - LW,F)",W,5,8,6.2
-"Patrick Kane (CHI - RW,F)",W,6,8,7.6
-"Sidney Crosby (PIT - C,F)",C,7,16,12
-"Artemi Panarin (NYR - LW,F)",W,4,40,12.6
-"Jack Eichel (BUF - C,F)",C,7,30,13.2
-Sebastian Aho (CAR - C),C,10,23,13.2
-"Mikko Rantanen (COL - RW,F)",W,7,32,14.4
-Andrei Vasilevskiy (TB - G),G,7,24,15.2
-"Brayden Point (TB - C,F)",C,12,26,16.4
-"Mitchell Marner (TOR - RW,F)",W,16,21,18.2
-Elias Pettersson (VAN - C),C,11,42,19.2
-Mika Zibanejad (NYR - C),C,15,31,19.8
-"Brad Marchand (BOS - LW,F)",W,17,28,20.8
-"Andrei Svechnikov (CAR - LW,RW)",W,14,30,21.2
-"Jonathan Huberdeau (FLA - LW,F)",W,17,39,22.2
-"Evgeni Malkin (PIT - C,F)",C,20,36,26
-"David Pastrnak (BOS - RW,F)",W,14,56,26.2
-"Aleksander Barkov (FLA - C,F)",C,21,41,28.2
-"John Tavares (TOR - C,F)",C,23,40,29.2
-John Carlson (WSH - D),D,17,68,29.6
-Connor Hellebuyck (WPG - G),G,19,47,30.2
-Cale Makar (COL - D),D,20,58,30.4
-"Mark Scheifele (WPG - C,F)",C,26,40,32
-"Steven Stamkos (TB - C,F)",C,25,45,33.8
-Robin Lehner (VGK - G),G,25,53,34
-Tuukka Rask (BOS - G),G,26,41,35.2
-"Mark Stone (VGK - RW,F)",W,25,51,36
-"Patrice Bergeron (BOS - C,F)",C,29,44,36.4
-"Matthew Tkachuk (CGY - LW,F)",W,30,48,36.6
-Victor Hedman (TB - D),D,9,113,36.8
-"Gabriel Landeskog (COL - C,LW)",C,31,48,37.8
-"Taylor Hall (ARI - LW,F)",W,28,48,39.2
-"Jake Guentzel (PIT - LW,RW)",W,27,65,41.4
-"Johnny Gaudreau (CGY - LW,F)",W,30,49,41.6
-"Blake Wheeler (WPG - RW,F)",W,33,55,43.4
-Igor Shesterkin (NYR - G),G,36,65,48.6
-Brent Burns (SJ - D),D,35,63,50.6
-Roman Josi (NSH - D),D,15,133,51
-Carey Price (MTL - G),G,39,75,51.8
-Morgan Rielly (TOR - D),D,45,66,51.8
-Philipp Grubauer (COL - G),G,43,78,53
-Carter Hart (PHI - G),G,27,109,53.8
-Jordan Binnington (STL - G),G,44,64,54
-Frederik Andersen (TOR - G),G,45,69,55.4
-"Teuvo Teravainen (CAR - LW,RW,F)",W,35,92,57.4
-"Evgeny Kuznetsov (WSH - C,F)",C,53,73,59.8
-"Claude Giroux (PHI - LW,C,RW)",W,37,83,60.4
-Dougie Hamilton (CAR - D),D,33,144,60.8
-"Patrik Laine (WPG - LW,RW)",W,30,135,61.2
-"Sean Couturier (PHI - C,F)",C,56,67,61.4
-"Nicklas Backstrom (WSH - C,F)",C,53,76,62
-Brock Boeser (VAN - RW),W,44,85,66
-Quinn Hughes (VAN - D),D,22,171,66.4
-Marc-Andre Fleury (VGK - G),G,49,86,67
-Kristopher Letang (PIT - D),D,55,80,67.8
-Torey Krug (BOS - D),D,54,97,69.4
-Ryan O'Reilly (STL - C),C,56,89,69.8
-Erik Karlsson (SJ - D),D,51,99,72
-"Max Pacioretty (VGK - LW,F)",W,47,107,72.4
-Seth Jones (CBJ - D),D,65,91,72.6
-Braden Holtby (WSH - G),G,33,101,73
-"Filip Forsberg (NSH - LW,F)",W,62,87,75
-"Alexander Radulov (DAL - RW,F)",W,25,139,75.4
-"Kyle Connor (WPG - LW,F)",W,38,123,80
-Jacob Markstrom (VAN - G),G,56,116,80.4
-"J.T. Miller (VAN - LW,RW)",W,35,230,81
-"Ryan Nugent-Hopkins (EDM - LW,C)",W,68,118,81.4
-"Mathew Barzal (NYI - C,F)",C,58,106,82
-"Logan Couture (SJ - C,F)",C,67,116,82.2
-"Jonathan Toews (CHI - C,F)",C,29,157,83
-"Tomas Hertl (SJ - C,LW)",C,55,108,86
-"Elias Lindholm (CGY - C,RW,F)",C,79,94,86
-"Alex DeBrincat (CHI - LW,RW)",W,52,130,87
-"Sean Monahan (CGY - C,F)",C,51,128,88.4
-Rasmus Dahlin (BUF - D),D,70,97,89.2
-Tyson Barrie (TOR - D),D,77,99,89.8
-John Klingberg (DAL - D),D,58,138,90.4
-Mark Giordano (CGY - D),D,59,127,90.4
-Miro Heiskanen (DAL - D),D,62,156,91.6
-Alex Pietrangelo (STL - D),D,44,186,92.8
-Brady Tkachuk (OTT - LW),W,57,149,93.2
-Sergei Bobrovsky (FLA - G),G,56,135,93.6
-"Bo Horvat (VAN - C,F)",C,73,108,93.6
-Zachary Werenski (CBJ - D),D,66,164,94.6
-"Timo Meier (SJ - LW,RW)",W,67,122,97.8
-Dylan Larkin (DET - C),C,63,145,98.4
-"Tom Wilson (WSH - RW,F)",W,77,115,98.6
-Shea Theodore (VGK - D),D,71,150,101.4
-"Anze Kopitar (LA - C,F)",C,69,129,103.2
-"Evander Kane (SJ - LW,F)",W,87,130,103.8
-"David Perron (STL - LW,RW,F)",W,78,144,106
-Semyon Varlamov (NYI - G),G,74,151,107
-"Jonathan Marchessault (VGK - C, LW)",C,76,140,107.6
-Ilya Samsonov (WSH - G),G,41,88,60.5
-Keith Yandle (FLA - D),D,73,133,108.8
-Pierre-Luc Dubois (CBJ - C),C,74,143,109.4
-"Matt Duchene (NSH - C,F)",C,59,202,109.6
-"Max Domi (MTL - C,LW)",C,57,146,111.8
-"Cam Atkinson (CBJ - RW,F)",W,81,129,113
-"Brendan Gallagher (MTL - RW,F)",W,86,136,113.2
-Shea Weber (MTL - D),D,82,179,114.2
-"Mike Hoffman (FLA - LW,RW)",W,72,143,114.4
-"Nazem Kadri (COL - C,F)",C,72,174,116.8
-"Brayden Schenn (STL - C,LW,F)",C,76,163,117.8
-"Kevin Fiala (MIN - LW,F)",W,68,276,118.8
-"T.J. Oshie (WSH - RW,F)",W,73,172,118.8
-Petr Mrazek (CAR - G),G,71,154,119.8
-"Chris Kreider (NYR - LW,F)",W,90,140,120.4
-"Evgenii Dadonov (FLA - LW,RW)",W,79,160,122
-"Jamie Benn (DAL - C,LW)",C,79,178,123.2
-Anton Khudobin (DAL - G),G,77,248,123.8
-Darcy Kuemper (ARI - G),G,94,153,124.4
-"Jakub Voracek (PHI - LW,RW,F)",W,78,195,125
-"Sam Reinhart (BUF - C,RW,F)",C,90,162,125.8
-Thomas Chabot (OTT - D),D,98,150,128
-Joonas Korpisalo (CBJ - G),G,116,172,129
-"Kyle Palmieri (NJ - RW,F)",W,102,166,131.6
-Matt Murray (PIT - G),G,93,185,132.6
-"Paul Stastny (VGK - C,F)",C,61,224,136.2
-Neal Pionk (WPG - D),D,75,226,137
-Elivs Merzlikins (CBJ - G),G,100,185,137.4
-Tristan Jarry (PIT - G),G,84,117,97.3
-"Jeff Skinner (BUF - C,LW)",C,77,214,141
-"Anthony Mantha (DET - LW,RW)",W,112,169,142.8
-Anthony DeAngelo (NYR - D),D,80,128,105
-"William Nylander (TOR - C,RW,F)",C,83,133,106.3
-"Tyler Seguin (DAL - C,F)",C,31,328,114.3
-Rasmus Ristolainen (BUF - D),D,87,190,146.6
-John Gibson (ANA - G),G,99,195,148.2
-"Reilly Smith (VGK - RW,F)",W,108,177,151.4
-"Zach Parise (MIN - LW,F)",W,92,211,151.6
-William Karlsson (VGK - C),C,127,190,152.8
-Nico Hischier (NJ - C),C,123,200,153.4
-Travis Konecny (PHI - RW),W,92,237,153.8
-Mathew Dumba (MIN - D),D,97,189,155.4
-"Vladimir Tarasenko (STL - RW,F)",W,41,345,131.8
-"Phil Kessel (ARI - RW,F)",W,72,176,121
-"David Krejci (BOS - C,F)",C,111,181,157.8
-Drew Doughty (LA - D),D,120,197,158.6
-"Joe Pavelski (DAL - C,RW,F)",C,80,241,159.8
-Ivan Provorov (PHI - D),D,100,165,131.3
-Dustin Byfuglien (FA - D),D,48,390,153.8
-Pekka Rinne (NSH - G),G,63,363,151.8
-Charlie McAvoy (BOS - D),D,107,163,136.3
-"Viktor Arvidsson (NSH - LW,RW)",W,90,233,138
-Ben Bishop (DAL - G),G,68,338,148.3
-Kevin Hayes (PHI - C),C,124,190,172.6
-"Ryan Getzlaf (ANA - C,F)",C,125,215,173.4
-Oliver Ekman-Larsson (ARI - D),D,135,202,173.4
-David Rittich (CGY - G),G,38,392,165.8
-"Tomas Tatar (MTL - LW,RW)",W,121,239,175.6
-Martin Jones (SJ - G),G,44,372,163.8
-"Andrew Shaw (CHI - C,RW,F)",C,82,245,146
-"Ryan Johansen (NSH - C,F)",C,100,193,147
-"Pavel Buchnevich (NYR - LW,F)",W,139,207,178
-"Alex Galchenyuk (MIN - C,LW)",C,86,250,149.8
-"Josh Anderson (CBJ - RW,F)",W,121,226,180.4
-"Jakub Vrana (WSH - LW,RW,F)",W,88,266,150.8
-Devan Dubnyk (MIN - G),G,151,226,181.6
-"Eric Staal (MIN - C,F)",C,142,225,181.8
-"Brock Nelson (NYI - C,LW)",C,141,223,182
-"Clayton Keller (ARI - LW,RW)",W,147,217,183.6
-Anders Lee (NYI - LW),W,122,188,155.3
-"Rickard Rakell (ANA - LW, RW)",W,156,232,186
-Jack Hughes (NJ - C),C,113,205,158.3
-Jacob Trouba (NYR - D),D,114,181,158.3
-"James Van Riemsdyk (PHI - LW,F)",-,105,219,159
-Jake Muzzin (TOR - D),D,155,230,189.2
-Dominik Kubalik (CHI - LW),W,89,140,116.3
-"Brandon Pirri (FA - C,F)",C,101,249,162.5
-Jaroslav Halak (BOS - G),G,118,192,162.8
-"Andre Burakovsky (COL - LW,F)",W,82,287,163.3
-"Josh Bailey (NYI - RW,F)",W,148,219,191.6
-Alexis Lafreniere (NYR - LW),W,91,143,120.3
-Ryan Ellis (NSH - D),D,147,220,166
-"Jaden Schwartz (STL - LW,F)",W,128,199,166.3
-Kirill Kaprizov (MIN - LW),W,103,158,122.7
-Victor Olofsson (BUF - RW),W,105,162,124
-Darnell Nurse (EDM - D),D,105,210,168.5
-Nikita Kucherov (TB - RW),W,4,74,39
-Alexander Edler (VAN - D),D,129,251,196.2
-Jeff Petry (MTL - D),D,131,209,170.3
-"Dylan Strome (CHI - C,F)",C,126,197,172
-"Mikael Granlund (NSH - LW,RW)",W,118,234,173.8
-"Jake DeBrusk (BOS - LW,RW)",W,157,234,199.6
-"Andreas Athanasiou (EDM - C,LW)",C,110,264,174.5
-Kailer Yamamoto (EDM - C),C,108,167,133.7
-"Bryan Rust (PIT - LW,RW)",W,109,165,134.7
-"Nikolaj Ehlers (WPG - LW,RW,F)",W,114,223,177.3
-Henrik Lundqvist (NYR - G),G,96,166,136.7
-Alex Tuch (VGK - RW),W,156,238,202.4
-"Jonathan Drouin (MTL - LW,F)",W,151,230,203
-Pavel Francouz (COL - G),G,118,178,138.3
-Corey Crawford (CHI - G),G,103,278,179.3
-"Mats Zuccarello (MIN - RW,F)",W,123,243,180.3
-Kaapo Kakko (NYR - RW),W,139,208,180.3
-Erik Gustafsson (FA - D),D,120,309,183
-Mikhail Sergachev (TB - D),D,149,223,181.5
-"Vincent Trocheck (CAR - C,F)",C,130,207,182.5
-"Ondrej Palat (TB - LW,F)",W,120,296,183.3
-Aaron Ekblad (FLA - D),D,164,244,185.5
-Colton Parayko (STL - D),D,150,225,186.8
-P.K. Subban (NJ - D),D,57,288,149.7
-Juuse Saros (NSH - G),G,116,284,187.5
-"Dustin Brown (LA - LW,RW,F)",W,152,243,210.2
-Denis Gurianov (DAL - RW),W,117,174,150.7
-Ryan Suter (MIN - D),D,158,236,189
-Nikita Gusev (NJ - LW),W,160,239,189
-"Nino Niederreiter (CAR - LW,RW)",W,134,238,189.3
-Adam Fox (NYR - D),D,138,275,189.3
-"Ryan Dzingel (CAR - LW,RW)",W,128,263,190
-Nicholas Suzuki (MTL - C),C,131,197,158.7
-Thatcher Demko (VAN - G),G,134,205,158.7
-"Patric Hornqvist (PIT - RW,F)",W,147,236,194.5
-"Oliver Bjorkstrand (CBJ - RW,F)",W,133,199,162.7
-"Jordan Staal (CAR - C,LW,F)",C,132,277,197.8
-Ilya Sorokin (NYI - G),G,139,209,164.7
-"Ryan Strome (NYR - RW,F)",W,132,203,166
-"Jason Zucker (PIT - LW,RW)",W,149,229,199.8
-Ryan Pulock (NYI - D),D,172,253,200
-Carter Hutton (BUF - G),G,140,246,200.3
-Cory Schneider (NJ - G),G,130,391,223.8
-Andreas Johnsson (TOR - LW),W,163,241,201.5
-Tyler Bertuzzi (DET - LW),W,164,242,202.8
-Mike Smith (EDM - G),G,131,196,171
-"Mikael Backlund (CGY - C,F)",C,182,264,224.2
-"Gustav Nyquist (CBJ - LW,RW,F)",W,141,281,206.8
-Carter Verhaeghe (TB - NA),NA,137,385,229
-Jesper Bratt (NJ - RW),W,150,255,208.5
-Cody Glass (FA - C),C,188,272,228.2
-Erik Gustafsson (CGY - D),D,96,302,181.7
-"Jordan Eberle (NYI - RW,F)",W,192,276,229.2
-"Kevin Labanc (SJ - LW,RW)",W,154,253,211.5
-"Erik Haula (FLA - C,LW,F)",C,145,303,215.5
-"Tyler Toffoli (VAN - C,RW,F)",C,161,240,188
-Dmytro Timashov (DET - RW),W,155,268,217
-Ondrej Kase (BOS - RW),W,157,261,217
-Roope Hintz (DAL - LW),W,191,275,219
-Cam Talbot (CGY - G),G,174,256,219.5
-Mackenzie Blackwood (FA - G),G,183,267,220.5
-"Zach Hyman (TOR - C,F)",C,179,298,237.2
-Jimmy Howard (DET - G),G,146,316,225.5
-Shayne Gostisbehere (PHI - D),D,119,322,206
-"Joe Thornton (SJ - C,F)",C,158,291,225.5
-Anthony Cirelli (TB - C),C,159,274,225.8
-"Jakob Silfverberg (ANA - RW,F)",W,165,265,225.8
-Nate Schmidt (VGK - D),D,168,248,202.7
-"Kasperi Kapanen (TOR - RW,F)",W,173,279,227.5
-"Phillip Danault (MTL - C,F)",C,183,266,228.3
-Jaccob Slavin (CAR - D),D,164,243,204.3
-Mattias Ekholm (NSH - D),D,196,281,230.5
-Alexandar Georgiev (NYR - G),G,177,297,230.8
-"Anthony Beauvillier (NYI - LW,F)",W,171,251,208.3
-Jonathan Quick (LA - G),G,196,282,232.5
-Manuel Wiederer (FA - C),C,166,294,234.5
-Josh Morrissey (WPG - D),D,183,272,235.5
-"Alex Chiasson (EDM - RW,F)",W,167,297,236
-"Nick Ritchie (BOS - LW,F)",W,172,279,236
-Samuel Girard (COL - D),D,197,285,236
-"Richard Panik (WSH - LW,F)",W,174,280,237.8
-"Brandon Saad (CHI - LW,RW,F)",W,184,268,219
-"Jesse Puljujarvi (FA - RW,F)",W,175,257,220
-"Travis Zajac (NJ - C,F)",C,171,305,241.5
-Filip Hronek (DET - D),D,209,295,240.5
-Antti Raanta (ARI - G),G,148,315,227
-Mikko Koskinen (EDM - G),G,170,250,223
-Ryan Poehling (MTL - LW),W,176,300,244.8
-Jared Spurgeon (MIN - D),D,194,293,245.5
-"Yanni Gourde (TB - LW,F)",W,178,301,246.5
-Joel Kiviranta (DAL - LW),W,196,283,228.7
-Nicholas Robertson (TOR - LW),W,199,287,231.3
-Craig Anderson (OTT - G),G,181,263,231.7
-"Nick Shore (WPG - C,F)",C,159,238,198.5
-"Jean-Gabriel Pageau (NYI - C,F)",C,192,277,233.7
-Devon Toews (NYI - D),D,213,298,252.5
-"Micheal Ferland (VAN - LW, RW)",W,187,306,254
-"Tyler Johnson (TB - LW,RW)",W,190,311,255.8
-Quinton Byfield (LA - C),C,206,291,240.3
-"Tim Stutzle (OTT - C,LW)",C,209,292,241
-Colin Campbell (FA - RW),W,191,318,260.8
-Duncan Keith (CHI - D),D,203,298,256.8
-Kevin Shattenkirk (TB - D),D,201,289,244
-"Alexander Nylander (CHI - LW,F)",W,175,258,216.5
-"Blake Coleman (TB - LW,RW)",W,193,357,272.8
-Vince Dunn (STL - D),D,236,269,248
-"Nick Schmaltz (ARI - C,F)",C,213,300,249.3
-Martin Necas (CAR - C),C,231,277,249.3
-"Boone Jenner (CBJ - C,LW,F)",C,195,280,249.7
-"Mikko Koivu (MIN - C,F)",C,198,310,265.8
-Justin Schultz (PIT - D),D,218,288,251.3
-Oscar Klefbom (EDM - D),D,187,395,283.7
-Alec Martinez (VGK - D),D,220,237,228.5
-Erik Foley (FA - LW),W,200,288,253
-Thomas Greiss (NYI - G),G,188,346,268.3
-"Craig Smith (NSH - RW,F)",W,220,240,230
-Jake Allen (STL - G),G,216,254,235
-"Cory Conacher (FA - LW,F)",W,211,294,257.3
-"Joel Armia (MTL - RW,F)",W,219,256,237.5
-James Reimer (CAR - G),G,223,257,240
-Erik Cernak (TB - D),D,197,321,267.3
-Jakob Chychrun (ARI - D),D,238,247,242.5
-Alex Iafallo (LA - C),C,228,262,245
-"Derek Stepan (ARI - C,F)",C,213,297,264.3
-Linus Ullmark (BUF - G),G,227,266,246.5
-"Alexander Killorn (TB - C,LW,F)",C,217,285,251
-Matt Grzelcyk (BOS - D),D,244,258,251
-Dominik Kahun (BUF - C),C,211,296,253.5
-Andrew Mangiapane (CGY - LW),W,212,299,255.5
-Trevor Zegras (ANA - C),C,250,270,260
-Justin Faulk (STL - D),D,220,307,263.5
-Radko Gudas (WSH - D),D,221,326,273.5
-Ryan Graves (COL - D),D,241,289,265
-Curtis McElhinney (TB - G),G,231,393,312
-"Anthony Duclair (OTT - LW,RW,F)",W,232,358,295
-Joel Farabee (PHI - LW),W,235,347,291
-Malcolm Subban (CHI - G),G,235,235,235
-Ville Heinola (FA - D),D,237,336,286.5
-"Marcus Johansson (BUF - LW,RW,F)",W,264,276,270
-Alex Turcotte (LA - C),C,244,244,244
-Calvin Petersen (LA - G),G,249,296,272.5
-Grigori Denisenko (FA - LW),W,245,245,245
-Kaapo Kahkonen (MIN - G),G,246,246,246
-Marco Rossi (MIN - C),C,247,370,308.5
-Mike Green (EDM - D),D,247,324,285.5
-Drake Batherson (FA - C),C,258,290,274
-Rasmus Sandin (TOR - D),D,248,314,281
-"Alexandre Texier (CBJ - C,LW)",C,270,282,276
-"Tanner Pearson (VAN - LW,F)",W,252,252,252
-Brandon Montour (BUF - D),D,256,256,256
-Colin Miller (BUF - D),D,257,257,257
-Colin White (OTT - C),C,259,308,283.5
-Barrett Hayton (ARI - C),C,259,259,259
-Gabriel Vilardi (LA - C),C,260,260,260
-Ryan Donato (MIN - LW),W,261,304,282.5
-"Frank Vatrano (FLA - LW, RW)",W,262,312,287
-Jake Gardiner (CAR - D),D,265,394,329.5
-Maxime Comtois (FA - LW),W,267,374,320.5
-Filip Zadina (DET - LW),W,271,271,271
-"Jack Roslovic (WPG - C,F)",C,272,313,292.5
-Cam Fowler (ANA - D),D,273,335,304
-"Zack Kassian (EDM - RW,F)",W,273,273,273
-"Adam Henrique (ANA - C,F)",C,275,275,275
-"Jeff Carter (LA - C,F)",C,278,317,297.5
-"Jordan Weal (MTL - C,F)",C,280,320,300
-Vitali Kravtsov (NYR - RW),W,281,325,303
-Ryan McDonagh (TB - D),D,282,376,329
-Alexander True (SJ - C),C,283,323,303
-Alex Goligoski (ARI - D),D,284,284,284
-Keith Kinkaid (FA - G),G,285,285,285
-Jesperi Kotkaniemi (MTL - C),C,286,327,306.5
-Owen Tippett (FLA - RW),W,286,286,286
-"Christian Dvorak (ARI - C,LW,F)",C,287,287,287
-Chris McCarthy (FA - C),C,289,289,289
-"Wayne Simmonds (BUF - RW,F)",W,290,396,343
-Esa Lindell (DAL - D),D,291,291,291
-Alex Stalock (MIN - G),G,292,292,292
-Buddy Robinson (CGY - RW),W,292,292,292
-Kirby Dach (CHI - C),C,293,342,317.5
-T.J. Brodie (CGY - D),D,293,293,293
-"Nick Bjugstad (PIT - C,F)",C,294,294,294
-Travis Sanheim (PHI - D),D,295,295,295
-"Sam Steel (ANA - C,F)",C,295,295,295
-"Mathieu Perreault (WPG - C,LW,F)",C,299,397,348
-Josh Norris (FA - C),C,299,299,299
-"Charlie Coyle (BOS - C,RW,F)",C,319,319,319
-Liam Foudy (CBJ - C),C,329,329,329
-Martin Kaut (FA - RW),W,330,330,330
-Evan Bouchard (EDM - D),D,331,331,331
-Connor McMichael (WSH - C),C,332,332,332
-Ty Smith (FA - D),D,333,333,333
-Alexander Volkov (TB - LW),W,334,334,334
-Bowen Byram (COL - D),D,337,337,337
-Jake Bean (CAR - D),D,339,339,339
-Alexander Romanov (MTL - D),D,340,340,340
-Morgan Frost (PHI - C),C,341,341,341
-"James Neal (EDM - RW,F)",W,343,343,343
-Dylan Cozens (FA - C),C,344,344,344
-Erik Brannstrom (FA - D),D,348,348,348
-Oliver Wahlstrom (FA - C),C,349,349,349
-Adam Gaudette (VAN - LW),W,350,350,350
-Tyler Benson (EDM - LW),W,351,351,351
-"Robby Fabbri (DET - C,LW,F)",C,352,352,352
-Damon Severson (NJ - D),D,353,353,353
-Zach Sanford (STL - C),C,354,354,354
-Jack Studnicka (BOS - C),C,355,355,355
-Filip Chytil (NYR - LW),W,356,356,356
-"Tyler Ennis (EDM - C,LW,F)",C,359,359,359
-"Joonas Donskoi (COL - RW,F)",W,360,360,360
-Ilya Mikheyev (TOR - RW),W,361,361,361
-Troy Terry (ANA - RW),W,362,362,362
-Lucas Raymond (DET - LW),W,364,364,364
-Jordan Kyrou (STL - C),C,365,365,365
-Alex Formenton (FA - LW),W,366,366,366
-Moritz Seider (FA - D),D,367,367,367
-"Martin Frk (LA - RW,F)",W,368,368,368
-"Nick Foligno (CBJ - LW,RW,F)",W,369,369,369
-Sami Vatanen (CAR - D),D,371,371,371
-Luke Kunin (MIN - C),C,373,373,373
-Nolan Patrick (PHI - C),C,375,375,375
-Eeli Tolvanen (NSH - LW),W,377,377,377
-Jack Quinn (BUF - C),C,378,378,378
-"Danton Heinen (ANA - C,LW,F)",C,379,379,379
-Oskar Lindblom (PHI - RW),W,380,380,380
-Erik Johnson (COL - D),D,381,381,381
-"Connor Brown (OTT - RW,F)",W,382,382,382
-Will Butcher (NJ - D),D,383,383,383
-Victor Soderstrom (ARI - D),D,384,384,384
-"Vladislav Namestnikov (COL - C,F)",C,386,386,386
-"Nicolas Aube-Kubel (PHI - RW,F)",W,387,387,387
-Collin Delia (CHI - G),G,388,388,388
-Phillip Tomasino (FA - C),C,389,389,389
-"Corey Perry (DAL - RW,F)",W,398,398,398
-Thomas Harley (DAL - D),D,399,399,399
+Connor McDavid ,C,1,2,1.8
+Nathan MacKinnon ,C,1,5,2
+Leon Draisaitl ,C,3,3,3
+Auston Matthews ,C,4,13,6
+Alex Ovechkin ,W,5,8,6.2
+Patrick Kane ,W,6,8,7.6
+Sidney Crosby ,C,7,16,12
+Artemi Panarin ,W,4,40,12.6
+Jack Eichel ,C,7,30,13.2
+Sebastian Aho ,C,10,23,13.2
+Mikko Rantanen ,W,7,32,14.4
+Andrei Vasilevskiy ,G,7,24,15.2
+Brayden Point ,C,12,26,16.4
+Mitchell Marner ,W,16,21,18.2
+Elias Pettersson ,C,11,42,19.2
+Mika Zibanejad ,C,15,31,19.8
+Brad Marchand ,W,17,28,20.8
+Andrei Svechnikov ,W,14,30,21.2
+Jonathan Huberdeau ,W,17,39,22.2
+Evgeni Malkin ,C,20,36,26
+David Pastrnak ,W,14,56,26.2
+Aleksander Barkov ,C,21,41,28.2
+John Tavares ,C,23,40,29.2
+John Carlson ,D,17,68,29.6
+Connor Hellebuyck ,G,19,47,30.2
+Cale Makar ,D,20,58,30.4
+Mark Scheifele ,C,26,40,32
+Steven Stamkos ,C,25,45,33.8
+Robin Lehner ,G,25,53,34
+Tuukka Rask ,G,26,41,35.2
+Mark Stone ,W,25,51,36
+Patrice Bergeron ,C,29,44,36.4
+Matthew Tkachuk ,W,30,48,36.6
+Victor Hedman ,D,9,113,36.8
+Gabriel Landeskog ,C,31,48,37.8
+Taylor Hall ,W,28,48,39.2
+Jake Guentzel ,W,27,65,41.4
+Johnny Gaudreau ,W,30,49,41.6
+Blake Wheeler ,W,33,55,43.4
+Igor Shesterkin ,G,36,65,48.6
+Brent Burns ,D,35,63,50.6
+Roman Josi ,D,15,133,51
+Carey Price ,G,39,75,51.8
+Morgan Rielly ,D,45,66,51.8
+Philipp Grubauer ,G,43,78,53
+Carter Hart ,G,27,109,53.8
+Jordan Binnington ,G,44,64,54
+Frederik Andersen ,G,45,69,55.4
+Teuvo Teravainen ,W,35,92,57.4
+Evgeny Kuznetsov ,C,53,73,59.8
+Claude Giroux ,W,37,83,60.4
+Dougie Hamilton ,D,33,144,60.8
+Patrik Laine ,W,30,135,61.2
+Sean Couturier ,C,56,67,61.4
+Nicklas Backstrom ,C,53,76,62
+Brock Boeser ,W,44,85,66
+Quinn Hughes ,D,22,171,66.4
+Marc-Andre Fleury ,G,49,86,67
+Kristopher Letang ,D,55,80,67.8
+Torey Krug ,D,54,97,69.4
+Ryan O'Reilly ,C,56,89,69.8
+Erik Karlsson ,D,51,99,72
+Max Pacioretty ,W,47,107,72.4
+Seth Jones ,D,65,91,72.6
+Braden Holtby ,G,33,101,73
+Filip Forsberg ,W,62,87,75
+Alexander Radulov ,W,25,139,75.4
+Kyle Connor ,W,38,123,80
+Jacob Markstrom ,G,56,116,80.4
+J.T. Miller ,W,35,230,81
+Ryan Nugent-Hopkins ,W,68,118,81.4
+Mathew Barzal ,C,58,106,82
+Logan Couture ,C,67,116,82.2
+Jonathan Toews ,C,29,157,83
+Tomas Hertl ,C,55,108,86
+Elias Lindholm ,C,79,94,86
+Alex DeBrincat ,W,52,130,87
+Sean Monahan ,C,51,128,88.4
+Rasmus Dahlin ,D,70,97,89.2
+Tyson Barrie ,D,77,99,89.8
+John Klingberg ,D,58,138,90.4
+Mark Giordano ,D,59,127,90.4
+Miro Heiskanen ,D,62,156,91.6
+Alex Pietrangelo ,D,44,186,92.8
+Brady Tkachuk ,W,57,149,93.2
+Sergei Bobrovsky ,G,56,135,93.6
+Bo Horvat ,C,73,108,93.6
+Zachary Werenski ,D,66,164,94.6
+Timo Meier ,W,67,122,97.8
+Dylan Larkin ,C,63,145,98.4
+Tom Wilson ,W,77,115,98.6
+Shea Theodore ,D,71,150,101.4
+Anze Kopitar ,C,69,129,103.2
+Evander Kane ,W,87,130,103.8
+David Perron ,W,78,144,106
+Semyon Varlamov ,G,74,151,107
+Jonathan Marchessault ,C,76,140,107.6
+Ilya Samsonov ,G,41,88,60.5
+Keith Yandle ,D,73,133,108.8
+Pierre-Luc Dubois ,C,74,143,109.4
+Matt Duchene ,C,59,202,109.6
+Max Domi ,C,57,146,111.8
+Cam Atkinson ,W,81,129,113
+Brendan Gallagher ,W,86,136,113.2
+Shea Weber ,D,82,179,114.2
+Mike Hoffman ,W,72,143,114.4
+Nazem Kadri ,C,72,174,116.8
+Brayden Schenn ,C,76,163,117.8
+Kevin Fiala ,W,68,276,118.8
+T.J. Oshie ,W,73,172,118.8
+Petr Mrazek ,G,71,154,119.8
+Chris Kreider ,W,90,140,120.4
+Evgenii Dadonov ,W,79,160,122
+Jamie Benn ,C,79,178,123.2
+Anton Khudobin ,G,77,248,123.8
+Darcy Kuemper ,G,94,153,124.4
+Jakub Voracek ,W,78,195,125
+Sam Reinhart ,C,90,162,125.8
+Thomas Chabot ,D,98,150,128
+Joonas Korpisalo ,G,116,172,129
+Kyle Palmieri ,W,102,166,131.6
+Matt Murray ,G,93,185,132.6
+Paul Stastny ,C,61,224,136.2
+Neal Pionk ,D,75,226,137
+Elivs Merzlikins ,G,100,185,137.4
+Tristan Jarry ,G,84,117,97.3
+Jeff Skinner ,C,77,214,141
+Anthony Mantha ,W,112,169,142.8
+Anthony DeAngelo ,D,80,128,105
+William Nylander ,C,83,133,106.3
+Tyler Seguin ,C,31,328,114.3
+Rasmus Ristolainen ,D,87,190,146.6
+John Gibson ,G,99,195,148.2
+Reilly Smith ,W,108,177,151.4
+Zach Parise ,W,92,211,151.6
+William Karlsson ,C,127,190,152.8
+Nico Hischier ,C,123,200,153.4
+Travis Konecny ,W,92,237,153.8
+Mathew Dumba ,D,97,189,155.4
+Vladimir Tarasenko ,W,41,345,131.8
+Phil Kessel ,W,72,176,121
+David Krejci ,C,111,181,157.8
+Drew Doughty ,D,120,197,158.6
+Joe Pavelski ,C,80,241,159.8
+Ivan Provorov ,D,100,165,131.3
+Dustin Byfuglien ,D,48,390,153.8
+Pekka Rinne ,G,63,363,151.8
+Charlie McAvoy ,D,107,163,136.3
+Viktor Arvidsson ,W,90,233,138
+Ben Bishop ,G,68,338,148.3
+Kevin Hayes ,C,124,190,172.6
+Ryan Getzlaf ,C,125,215,173.4
+Oliver Ekman-Larsson ,D,135,202,173.4
+David Rittich ,G,38,392,165.8
+Tomas Tatar ,W,121,239,175.6
+Martin Jones ,G,44,372,163.8
+Andrew Shaw ,C,82,245,146
+Ryan Johansen ,C,100,193,147
+Pavel Buchnevich ,W,139,207,178
+Alex Galchenyuk ,C,86,250,149.8
+Josh Anderson ,W,121,226,180.4
+Jakub Vrana ,W,88,266,150.8
+Devan Dubnyk ,G,151,226,181.6
+Eric Staal ,C,142,225,181.8
+Brock Nelson ,C,141,223,182
+Clayton Keller ,W,147,217,183.6
+Anders Lee ,W,122,188,155.3
+Rickard Rakell ,W,156,232,186
+Jack Hughes ,C,113,205,158.3
+Jacob Trouba ,D,114,181,158.3
+James Van Riemsdyk ,-,105,219,159
+Jake Muzzin ,D,155,230,189.2
+Dominik Kubalik ,W,89,140,116.3
+Brandon Pirri ,C,101,249,162.5
+Jaroslav Halak ,G,118,192,162.8
+Andre Burakovsky ,W,82,287,163.3
+Josh Bailey ,W,148,219,191.6
+Alexis Lafreniere ,W,91,143,120.3
+Ryan Ellis ,D,147,220,166
+Jaden Schwartz ,W,128,199,166.3
+Kirill Kaprizov ,W,103,158,122.7
+Victor Olofsson ,W,105,162,124
+Darnell Nurse ,D,105,210,168.5
+Nikita Kucherov ,W,4,74,39
+Alexander Edler ,D,129,251,196.2
+Jeff Petry ,D,131,209,170.3
+Dylan Strome ,C,126,197,172
+Mikael Granlund ,W,118,234,173.8
+Jake DeBrusk ,W,157,234,199.6
+Andreas Athanasiou ,C,110,264,174.5
+Kailer Yamamoto ,C,108,167,133.7
+Bryan Rust ,W,109,165,134.7
+Nikolaj Ehlers ,W,114,223,177.3
+Henrik Lundqvist ,G,96,166,136.7
+Alex Tuch ,W,156,238,202.4
+Jonathan Drouin ,W,151,230,203
+Pavel Francouz ,G,118,178,138.3
+Corey Crawford ,G,103,278,179.3
+Mats Zuccarello ,W,123,243,180.3
+Kaapo Kakko ,W,139,208,180.3
+Erik Gustafsson ,D,120,309,183
+Mikhail Sergachev ,D,149,223,181.5
+Vincent Trocheck ,C,130,207,182.5
+Ondrej Palat ,W,120,296,183.3
+Aaron Ekblad ,D,164,244,185.5
+Colton Parayko ,D,150,225,186.8
+P.K. Subban ,D,57,288,149.7
+Juuse Saros ,G,116,284,187.5
+Dustin Brown ,W,152,243,210.2
+Denis Gurianov ,W,117,174,150.7
+Ryan Suter ,D,158,236,189
+Nikita Gusev ,W,160,239,189
+Nino Niederreiter ,W,134,238,189.3
+Adam Fox ,D,138,275,189.3
+Ryan Dzingel ,W,128,263,190
+Nicholas Suzuki ,C,131,197,158.7
+Thatcher Demko ,G,134,205,158.7
+Patric Hornqvist ,W,147,236,194.5
+Oliver Bjorkstrand ,W,133,199,162.7
+Jordan Staal ,C,132,277,197.8
+Ilya Sorokin ,G,139,209,164.7
+Ryan Strome ,W,132,203,166
+Jason Zucker ,W,149,229,199.8
+Ryan Pulock ,D,172,253,200
+Carter Hutton ,G,140,246,200.3
+Cory Schneider ,G,130,391,223.8
+Andreas Johnsson ,W,163,241,201.5
+Tyler Bertuzzi ,W,164,242,202.8
+Mike Smith ,G,131,196,171
+Mikael Backlund ,C,182,264,224.2
+Gustav Nyquist ,W,141,281,206.8
+Carter Verhaeghe ,NA,137,385,229
+Jesper Bratt ,W,150,255,208.5
+Cody Glass ,C,188,272,228.2
+Erik Gustafsson ,D,96,302,181.7
+Jordan Eberle ,W,192,276,229.2
+Kevin Labanc ,W,154,253,211.5
+Erik Haula ,C,145,303,215.5
+Tyler Toffoli ,C,161,240,188
+Dmytro Timashov ,W,155,268,217
+Ondrej Kase ,W,157,261,217
+Roope Hintz ,W,191,275,219
+Cam Talbot ,G,174,256,219.5
+Mackenzie Blackwood ,G,183,267,220.5
+Zach Hyman ,C,179,298,237.2
+Jimmy Howard ,G,146,316,225.5
+Shayne Gostisbehere ,D,119,322,206
+Joe Thornton ,C,158,291,225.5
+Anthony Cirelli ,C,159,274,225.8
+Jakob Silfverberg ,W,165,265,225.8
+Nate Schmidt ,D,168,248,202.7
+Kasperi Kapanen ,W,173,279,227.5
+Phillip Danault ,C,183,266,228.3
+Jaccob Slavin ,D,164,243,204.3
+Mattias Ekholm ,D,196,281,230.5
+Alexandar Georgiev ,G,177,297,230.8
+Anthony Beauvillier ,W,171,251,208.3
+Jonathan Quick ,G,196,282,232.5
+Manuel Wiederer ,C,166,294,234.5
+Josh Morrissey ,D,183,272,235.5
+Alex Chiasson ,W,167,297,236
+Nick Ritchie ,W,172,279,236
+Samuel Girard ,D,197,285,236
+Richard Panik ,W,174,280,237.8
+Brandon Saad ,W,184,268,219
+Jesse Puljujarvi ,W,175,257,220
+Travis Zajac ,C,171,305,241.5
+Filip Hronek ,D,209,295,240.5
+Antti Raanta ,G,148,315,227
+Mikko Koskinen ,G,170,250,223
+Ryan Poehling ,W,176,300,244.8
+Jared Spurgeon ,D,194,293,245.5
+Yanni Gourde ,W,178,301,246.5
+Joel Kiviranta ,W,196,283,228.7
+Nicholas Robertson ,W,199,287,231.3
+Craig Anderson ,G,181,263,231.7
+Nick Shore ,C,159,238,198.5
+Jean-Gabriel Pageau ,C,192,277,233.7
+Devon Toews ,D,213,298,252.5
+Micheal Ferland ,W,187,306,254
+Tyler Johnson ,W,190,311,255.8
+Quinton Byfield ,C,206,291,240.3
+Tim Stutzle ,C,209,292,241
+Colin Campbell ,W,191,318,260.8
+Duncan Keith ,D,203,298,256.8
+Kevin Shattenkirk ,D,201,289,244
+Alexander Nylander ,W,175,258,216.5
+Blake Coleman ,W,193,357,272.8
+Vince Dunn ,D,236,269,248
+Nick Schmaltz ,C,213,300,249.3
+Martin Necas ,C,231,277,249.3
+Boone Jenner ,C,195,280,249.7
+Mikko Koivu ,C,198,310,265.8
+Justin Schultz ,D,218,288,251.3
+Oscar Klefbom ,D,187,395,283.7
+Alec Martinez ,D,220,237,228.5
+Erik Foley ,W,200,288,253
+Thomas Greiss ,G,188,346,268.3
+Craig Smith ,W,220,240,230
+Jake Allen ,G,216,254,235
+Cory Conacher ,W,211,294,257.3
+Joel Armia ,W,219,256,237.5
+James Reimer ,G,223,257,240
+Erik Cernak ,D,197,321,267.3
+Jakob Chychrun ,D,238,247,242.5
+Alex Iafallo ,C,228,262,245
+Derek Stepan ,C,213,297,264.3
+Linus Ullmark ,G,227,266,246.5
+Alexander Killorn ,C,217,285,251
+Matt Grzelcyk ,D,244,258,251
+Dominik Kahun ,C,211,296,253.5
+Andrew Mangiapane ,W,212,299,255.5
+Trevor Zegras ,C,250,270,260
+Justin Faulk ,D,220,307,263.5
+Radko Gudas ,D,221,326,273.5
+Ryan Graves ,D,241,289,265
+Curtis McElhinney ,G,231,393,312
+Anthony Duclair ,W,232,358,295
+Joel Farabee ,W,235,347,291
+Malcolm Subban ,G,235,235,235
+Ville Heinola ,D,237,336,286.5
+Marcus Johansson ,W,264,276,270
+Alex Turcotte ,C,244,244,244
+Calvin Petersen ,G,249,296,272.5
+Grigori Denisenko ,W,245,245,245
+Kaapo Kahkonen ,G,246,246,246
+Marco Rossi ,C,247,370,308.5
+Mike Green ,D,247,324,285.5
+Drake Batherson ,C,258,290,274
+Rasmus Sandin ,D,248,314,281
+Alexandre Texier ,C,270,282,276
+Tanner Pearson ,W,252,252,252
+Brandon Montour ,D,256,256,256
+Colin Miller ,D,257,257,257
+Colin White ,C,259,308,283.5
+Barrett Hayton ,C,259,259,259
+Gabriel Vilardi ,C,260,260,260
+Ryan Donato ,W,261,304,282.5
+Frank Vatrano ,W,262,312,287
+Jake Gardiner ,D,265,394,329.5
+Maxime Comtois ,W,267,374,320.5
+Filip Zadina ,W,271,271,271
+Jack Roslovic ,C,272,313,292.5
+Cam Fowler ,D,273,335,304
+Zack Kassian ,W,273,273,273
+Adam Henrique ,C,275,275,275
+Jeff Carter ,C,278,317,297.5
+Jordan Weal ,C,280,320,300
+Vitali Kravtsov ,W,281,325,303
+Ryan McDonagh ,D,282,376,329
+Alexander True ,C,283,323,303
+Alex Goligoski ,D,284,284,284
+Keith Kinkaid ,G,285,285,285
+Jesperi Kotkaniemi ,C,286,327,306.5
+Owen Tippett ,W,286,286,286
+Christian Dvorak ,C,287,287,287
+Chris McCarthy ,C,289,289,289
+Wayne Simmonds ,W,290,396,343
+Esa Lindell ,D,291,291,291
+Alex Stalock ,G,292,292,292
+Buddy Robinson ,W,292,292,292
+Kirby Dach ,C,293,342,317.5
+T.J. Brodie ,D,293,293,293
+Nick Bjugstad ,C,294,294,294
+Travis Sanheim ,D,295,295,295
+Sam Steel ,C,295,295,295
+Mathieu Perreault ,C,299,397,348
+Josh Norris ,C,299,299,299
+Charlie Coyle ,C,319,319,319
+Liam Foudy ,C,329,329,329
+Martin Kaut ,W,330,330,330
+Evan Bouchard ,D,331,331,331
+Connor McMichael ,C,332,332,332
+Ty Smith ,D,333,333,333
+Alexander Volkov ,W,334,334,334
+Bowen Byram ,D,337,337,337
+Jake Bean ,D,339,339,339
+Alexander Romanov ,D,340,340,340
+Morgan Frost ,C,341,341,341
+James Neal ,W,343,343,343
+Dylan Cozens ,C,344,344,344
+Erik Brannstrom ,D,348,348,348
+Oliver Wahlstrom ,C,349,349,349
+Adam Gaudette ,W,350,350,350
+Tyler Benson ,W,351,351,351
+Robby Fabbri ,C,352,352,352
+Damon Severson ,D,353,353,353
+Zach Sanford ,C,354,354,354
+Jack Studnicka ,C,355,355,355
+Filip Chytil ,W,356,356,356
+Tyler Ennis ,C,359,359,359
+Joonas Donskoi ,W,360,360,360
+Ilya Mikheyev ,W,361,361,361
+Troy Terry ,W,362,362,362
+Lucas Raymond ,W,364,364,364
+Jordan Kyrou ,C,365,365,365
+Alex Formenton ,W,366,366,366
+Moritz Seider ,D,367,367,367
+Martin Frk ,W,368,368,368
+Nick Foligno ,W,369,369,369
+Sami Vatanen ,D,371,371,371
+Luke Kunin ,C,373,373,373
+Nolan Patrick ,C,375,375,375
+Eeli Tolvanen ,W,377,377,377
+Jack Quinn ,C,378,378,378
+Danton Heinen ,C,379,379,379
+Oskar Lindblom ,W,380,380,380
+Erik Johnson ,D,381,381,381
+Connor Brown ,W,382,382,382
+Will Butcher ,D,383,383,383
+Victor Soderstrom ,D,384,384,384
+Vladislav Namestnikov ,C,386,386,386
+Nicolas Aube-Kubel ,W,387,387,387
+Collin Delia ,G,388,388,388
+Phillip Tomasino ,C,389,389,389
+Corey Perry ,W,398,398,398
+Thomas Harley ,D,399,399,399
